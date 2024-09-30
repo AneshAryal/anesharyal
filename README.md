@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022 <br>📚 I'm currently learning Cypress <br>🎯 Goals: Senior QA Automation engineer <br>🎲 Fun fact: I tell truth always</p>
+<p align="left">✨ Finding bugs since 2023 <br>📚 I'm currently learning Cypress <br>🎯 Goals: Senior QA Automation engineer <br>🎲 Fun fact: I tell truth always</p>
 
 ###
 
